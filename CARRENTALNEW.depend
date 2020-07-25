@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1578922218 source:d:\project\carrentalnew\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1578922220 d:\project\carrentalnew\conio2.h
+	<conio.h>
+	<windows.h>
+
+1583391281 source:d:\project\carrentalnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1583391281 d:\project\carrentalnew\car.h
+	<time.h>
+
+1584189416 source:d:\project\carrentalnew\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1584189416 source:g:\d\project\carrentalnew\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1583391281 g:\d\project\carrentalnew\car.h
+	<time.h>
+
+1578922220 g:\d\project\carrentalnew\conio2.h
+	<conio.h>
+	<windows.h>
+
+1578922218 source:g:\d\project\carrentalnew\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1583391281 source:g:\d\project\carrentalnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1578922218 source:e:\project\carrentalnew\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1578922220 e:\project\carrentalnew\conio2.h
+	<conio.h>
+	<windows.h>
+
+1583391281 source:e:\project\carrentalnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1583391281 e:\project\carrentalnew\car.h
+	<time.h>
+
+1593527960 source:e:\project\carrentalnew\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
